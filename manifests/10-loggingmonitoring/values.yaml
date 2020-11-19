@@ -1,0 +1,11 @@
+prometheusOperator:
+  admissionWebhooks:
+    enabled: false
+  tlsProxy:
+    enabled: false
+
+kubeDns:
+  enabled: true
+
+coreDns:
+  enabled: false
